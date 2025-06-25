@@ -1,1 +1,4 @@
-
+- `baseHL_maps.R` – Creates maps showing LGM extent, current extent, and LML ≤ 0.10 cover (here for Isabela)
+- `cleveland_plots_RQ3.R` – Generates Cleveland plots comparing BaseHL with HumHL estimates (LML and CNL) ì
+- `sign_test_RQ3.R` – Performs paired sign tests comparing BaseHL with HumHL (LML and CNL)  
+- `spearman_correlation.R` – Calculates and visualises Spearman correlation between HumHL/BaseHL ratios from LML and CNL
