@@ -1,4 +1,5 @@
 # Contents
+### Folders
 - `scripts` – R scripts
 
 ### Data Files
