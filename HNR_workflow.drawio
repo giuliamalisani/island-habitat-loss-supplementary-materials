@@ -39,7 +39,7 @@
         <mxCell id="h28bRmOpuLz_-zzNf0Dm-31" edge="1" parent="1" source="h28bRmOpuLz_-zzNf0Dm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h28bRmOpuLz_-zzNf0Dm-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h28bRmOpuLz_-zzNf0Dm-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Island-specific&amp;nbsp;&lt;div&gt;vegetation data&lt;/div&gt;" vertex="1">
+        <mxCell id="h28bRmOpuLz_-zzNf0Dm-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CEEBFF;" value="Island-specific&amp;nbsp;&lt;div&gt;vegetation data&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="20" y="50" as="geometry" />
         </mxCell>
         <mxCell id="h28bRmOpuLz_-zzNf0Dm-32" edge="1" parent="1" source="h28bRmOpuLz_-zzNf0Dm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h28bRmOpuLz_-zzNf0Dm-17">
@@ -50,19 +50,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h28bRmOpuLz_-zzNf0Dm-28" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Human&amp;nbsp;&lt;div&gt;Modification Index&lt;/div&gt;" vertex="1">
+        <mxCell id="h28bRmOpuLz_-zzNf0Dm-28" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CEEBFF;" value="Human&amp;nbsp;&lt;div&gt;Modification Index&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="20" y="160" as="geometry" />
         </mxCell>
         <mxCell id="h28bRmOpuLz_-zzNf0Dm-33" edge="1" parent="1" source="h28bRmOpuLz_-zzNf0Dm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h28bRmOpuLz_-zzNf0Dm-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h28bRmOpuLz_-zzNf0Dm-29" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Bathymetry data &lt;br&gt;&amp;amp; sea-level estimates" vertex="1">
+        <mxCell id="h28bRmOpuLz_-zzNf0Dm-29" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CEEBFF;" value="Bathymetry data &lt;br&gt;&amp;amp; sea-level estimates" vertex="1">
           <mxGeometry height="60" width="160" x="20" y="280" as="geometry" />
         </mxCell>
         <mxCell id="h28bRmOpuLz_-zzNf0Dm-34" edge="1" parent="1" source="h28bRmOpuLz_-zzNf0Dm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h28bRmOpuLz_-zzNf0Dm-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h28bRmOpuLz_-zzNf0Dm-30" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Island-specific&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Holocene lava &lt;br&gt;flow maps&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="h28bRmOpuLz_-zzNf0Dm-30" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CEEBFF;" value="Island-specific&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Holocene lava &lt;br&gt;flow maps&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="20" y="390" as="geometry" />
         </mxCell>
         <mxCell id="h28bRmOpuLz_-zzNf0Dm-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C2410CA6;" value="Local HumHLr" vertex="1">
