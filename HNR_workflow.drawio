@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="wXKfV_B5umjHGza02FSc">
-    <mxGraphModel dx="1113" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="330" pageHeight="250" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="330" pageHeight="250" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,8 +39,8 @@
         <mxCell id="h28bRmOpuLz_-zzNf0Dm-31" edge="1" parent="1" source="h28bRmOpuLz_-zzNf0Dm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h28bRmOpuLz_-zzNf0Dm-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h28bRmOpuLz_-zzNf0Dm-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CEEBFF;" value="Island-specific&amp;nbsp;&lt;div&gt;vegetation datasets&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="20" y="50" as="geometry" />
+        <mxCell id="h28bRmOpuLz_-zzNf0Dm-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CEEBFF;" value="&lt;font&gt;V&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;egetation estimates&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); text-align: left;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px;&quot;&gt;Norder et al. 2020&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); text-align: left;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px;&quot;&gt;and additional sources &lt;br&gt;(appendix A)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="20" y="40" as="geometry" />
         </mxCell>
         <mxCell id="h28bRmOpuLz_-zzNf0Dm-32" edge="1" parent="1" source="h28bRmOpuLz_-zzNf0Dm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h28bRmOpuLz_-zzNf0Dm-17">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5EimgKgDA_8j6VQKED0-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Local proxy" vertex="1">
-          <mxGeometry height="40" width="50" x="10" y="30" as="geometry" />
+          <mxGeometry height="40" width="50" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="Q5EimgKgDA_8j6VQKED0-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Global proxy" vertex="1">
           <mxGeometry height="40" width="50" x="20" y="140" as="geometry" />
